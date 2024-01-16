@@ -9,11 +9,15 @@ in the first place. These tasks are hard and that's why we do them.
 
 ## Are there any prizes?
 
-Nope.
+Nope. The tasks are all made up and the points aren't real.
 
 ## Can I put this on my LinkedIn?
 
 Only if you want to be laughed at.
+
+## Really? The most used language is Java?
+
+We _did_ promise that people would laugh at you.
 
 ## Great. How do I sign up?
 
