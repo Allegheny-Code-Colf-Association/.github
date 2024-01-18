@@ -7,6 +7,10 @@ the challenges (all 18 of 'em) for prizes that don't exist and kudos that aren't
 or in "PROduction," but let's face it: those aren't the jokes. These challenges will offer your more lulz than you thought possible which were probably none
 in the first place. These tasks are hard and that's why we do them.
 
+## Leaderboard
+
+* [2024 Season Open Leaderboard](https://chompe.rs/acga-open-2024-leaderboard)
+
 ## Are there any prizes?
 
 Nope. The tasks are all made up and the points aren't real.
