@@ -40,15 +40,22 @@ players to update their fork(s) and provide instructions for how to do so.
 |`Round 15`	    |26 April 	 |29 April    |	
 |`Round(s) 16-18` |29 April |6 May       | 
 
-## Are there any prizes?
+## FAQ
+
+### Can I submit my entry multiple times?
+
+Rounds are governed by time, not attempts. As long as your best effort is in by 🕙 23:59 (EST) on the day
+the round ends, it's the latest entry that counts.
+
+### Are there any prizes?
 
 Nope. The tasks are all made up and the points aren't real.
 
-## Can I put this on my LinkedIn?
+### Can I put this on my LinkedIn?
 
 Only if you want to be laughed at.
 
-## Great. How do I sign up?
+### Great. How do I sign up?
 
 For the Open-Rank leaderboard:
 
