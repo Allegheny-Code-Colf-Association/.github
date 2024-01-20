@@ -7,6 +7,12 @@ the challenges (all 18 of 'em) for prizes that don't exist and kudos that aren't
 or in "PROduction," but let's face it: those aren't the jokes. These challenges will offer your more lulz than you thought possible which were probably none
 in the first place. 
 
+## What is Code Golf?
+
+The easiest way to answer this question is do what all very online people do--quote Wikipedia:
+
+> Code golf is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that solves a certain problem. Code golf challenges and tournaments may also be named with the programming language used (for example, Perl golf).
+
 ## Leaderboard
 
 * [2024 Season Open Leaderboard](https://chompe.rs/acga-open-2024-leaderboard)
