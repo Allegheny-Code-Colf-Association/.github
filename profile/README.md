@@ -9,7 +9,7 @@ in the first place.
 
 ## What is Code Golf?
 
-The easiest way to answer this question is do what all very online people do--quote Wikipedia:
+The easiest way to answer this question is do what all very online people do, and cite [Wikipedia's entry on the subject](https://en.wikipedia.org/wiki/Code_golf):
 
 > Code golf is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that solves a certain problem. Code golf challenges and tournaments may also be named with the programming language used (for example, Perl golf).
 
