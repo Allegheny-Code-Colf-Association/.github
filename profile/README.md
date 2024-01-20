@@ -19,10 +19,6 @@ Nope. The tasks are all made up and the points aren't real.
 
 Only if you want to be laughed at.
 
-## Really? The most used language is Java?
-
-We _did_ promise that people would laugh at you.
-
 ## Great. How do I sign up?
 
 For the Open-Rank leaderboard:
