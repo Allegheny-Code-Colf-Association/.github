@@ -18,21 +18,21 @@ players to update their fork(s) and provide instructions for how to do so.
 
 |Round Number |Start Date |End Date |
 |:------------|:----------|:--------|
-|Round 1      |19 January	|22 January	|
-|Round 2	    |26 January |29 January |		
-|Round 3	    |2 February	|5 February |		
-|Round 4	    |9 February	|12 February |		
-|Round 5	    |16 February |19 February |
-|Round 6	    |23 February |26 February |
-|Rounds 7-8	  |1 March	   |15 March    |
-|Round 9	    |15 March	   |18 March    |
-|Round 10	    |22 March	   |25 March    |	
-|Round 11	    |29 March	   |1 April     |	
-|Round 12 	  |5 April	   |8 April     |		
-|Round 13	    |12 April	   |15 April	  |
-|Round 14	    |19 April	   |22 April	  |
-|Round 15	    |26 April 	 |29 April    |	
-|Round(s)  16-18 |29 April |6 May       | 
+|`Round 1`      |19 January	|22 January	|
+|`Round 2`	    |26 January |29 January |		
+|`Round 3`	    |2 February	|5 February |		
+|`Round 4`	    |9 February	|12 February |		
+|`Round 5`	    |16 February |19 February |
+|`Round 6`	    |23 February |26 February |
+|`Rounds 7-8`	  |1 March	   |15 March    |
+|`Round 9`    |15 March	   |18 March    |
+|`Round 10`   |22 March	   |25 March    |	
+|`Round 11`    |29 March	   |1 April     |	
+|`Round 12 `	  |5 April	   |8 April     |		
+|`Round 13`	    |12 April	   |15 April	  |
+|`Round 14`	    |19 April	   |22 April	  |
+|`Round 15`	    |26 April 	 |29 April    |	
+|`Round(s) 16-18` |29 April |6 May       | 
 
 ## Are there any prizes?
 
