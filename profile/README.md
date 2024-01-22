@@ -47,6 +47,26 @@ players to update their fork(s) and provide instructions for how to do so.
 Rounds are governed by time, not attempts. As long as your best effort is in by 🕙 23:59 (EST) on the day
 the round ends, it's the latest entry that counts.
 
+### How do I see my score?
+
+#### On your machine
+
+You'll need to
+
+`python -m pip install gatorgrade`
+
+to get the automated grading system (AGS) that we use to run our tests. Once you've done that, type:
+
+`gatorgrade`
+
+to run the grader. The score should be the top line in the readout.
+
+#### On GitHub
+
+You'll need to head to `Settings` and enable GitHub Actions on your fork. This will run the workflows
+already built in the repositories and add your stroke count to the Job Summary for a given GitHub Actions
+run.
+
 ### Are there any prizes?
 
 Nope. The tasks are all made up and the points aren't real.
